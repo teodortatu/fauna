@@ -1,0 +1,41 @@
+.title{
+	color:#ffffff;
+	background-color: #000066;
+	border-radius:15px;
+}
+.web{
+color:white;
+background-color:#ff0000;
+text-decoration: none;
+padding-top:5px;
+padding-bottom:5px;
+border-radius:15px;
+
+}
+#butonhome{
+	
+}
+#butonhome a{
+	text-decoration:none;
+	width:100px;
+	height: 50px;
+	background-color:#002b80s;
+	border-radius: 15px;
+}
+.subiect{
+	background-color:#800000;
+padding-bottom:5px;
+border-radius:15px;
+color: white;
+
+}
+.copywrite{
+	background-color: #003300;
+	border-radius:15px;
+	padding-bottom:2px;
+	padding-top:2px;
+	color: white;
+}
+.nume{
+	padding-left:15px;
+}
